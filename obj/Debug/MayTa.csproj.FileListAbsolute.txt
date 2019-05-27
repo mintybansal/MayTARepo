@@ -1,0 +1,12 @@
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\MayTa.exe.config
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\MayTa.exe
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\MayTa.pdb
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\WebDriver.dll
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\WebDriver.Support.dll
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\WebDriver.xml
+S:\MayTaGlobal\MayTa\MayTa\bin\Debug\WebDriver.Support.xml
+S:\MayTaGlobal\MayTa\MayTa\obj\Debug\MayTa.csprojAssemblyReference.cache
+S:\MayTaGlobal\MayTa\MayTa\obj\Debug\MayTa.csproj.CoreCompileInputs.cache
+S:\MayTaGlobal\MayTa\MayTa\obj\Debug\MayTa.csproj.CopyComplete
+S:\MayTaGlobal\MayTa\MayTa\obj\Debug\MayTa.exe
+S:\MayTaGlobal\MayTa\MayTa\obj\Debug\MayTa.pdb
