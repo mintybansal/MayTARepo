@@ -48,5 +48,17 @@ namespace MayTa.Pages
                 Console.WriteLine("Test Failed!");
             }
         }
+
+        //Function to edit TM
+        public void editTM(IWebDriver driver)
+        {
+            //code to edit an existing TM
+        }
+
+        //Function to delete TM
+        public void deleteTM(IWebDriver driver)
+        {
+            //code to delete an existing TM
+        }
     }
 }
